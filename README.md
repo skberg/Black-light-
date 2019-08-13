@@ -11,9 +11,9 @@ as you can see the name is inside the media in the css links in the html as you 
 
 this then calls on to diffrent filse one Dark and one ligth, inside the to fills i use a 
 
---
+-
 :root 
---
+-
 
 
 
