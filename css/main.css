@@ -1,0 +1,33 @@
+body {
+  color: var(--color);
+  background-color: var(--background-color);
+  height: 100vh;
+  margin: 0;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+.container {
+  width: 80%;
+  background: var(--panel-bg);
+  border-radius: 10px;
+  padding: 4em;
+}
+
+.container .h1 {
+  margin: 0;
+}
+
+@media (prefers-color-scheme: Light) {
+  h1::after {
+    content: "Light";
+  }
+}
+
+@media (prefers-color-scheme: Dark) {
+  h1::after {
+    content: "Dark";
+  }
+}
+/*# sourceMappingURL=main.css.map */
