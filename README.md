@@ -1,24 +1,23 @@
 # Black-light
-This is a sipmpl web page that uses the theme color of your operating System and Apply's it to the background color 
+This is a simple web page that uses the theme color of your operating System and Apply's it to the background color. 
 
-this is a Css property called Prefers-Color-Scheme 
+explanation:
 
-as you can see the name is inside the media in the css links in the html as you can see.
+This is a Css property called Prefers-Color-Scheme 
+
+as you can see the name is inside the media in the css links in the html.
 
 👇
 
 <img width="857" alt="Css Link img" src="https://user-images.githubusercontent.com/32140076/62956384-252e3a80-bdf3-11e9-9fbc-975959bf3555.png">
 
-this then calls on to diffrent filse one Dark and one ligth, inside the to fills i use a 
+this then calls on to diffrent filse Dark or ligth, inside the css folder that you can find above the index.html file. 
 
--
+inside this to file you will only find one tag 
+
 :root 
--
 
-
-
-
-
+this tag controls what collors that are going to work when the dark theme is set or ligth theme inside your operating System
 
 
 
