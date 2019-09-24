@@ -20,6 +20,10 @@ inside this to file you will only find one tag
 this tag controls what collors that are going to work when the dark theme is set or ligth theme inside your operating System
 
 
+on the web:
+
+color-pref.netlify.com
+
 
 if you what to learn more you should take a look at this one:
 
