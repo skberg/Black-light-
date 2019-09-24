@@ -22,7 +22,7 @@ this tag controls what collors that are going to work when the dark theme is set
 
 on the web:
 
-color-pref.netlify.com
+https://color-pref.netlify.com/
 
 
 if you what to learn more you should take a look at this one:
