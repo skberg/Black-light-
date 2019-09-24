@@ -1,7 +1,13 @@
 # Black-light
 This is a simple web page that uses the theme color of your operating System and Apply's it to the background color. 
 
-explanation:
+
+# Url
+
+https://color-pref.netlify.com/
+
+
+# Explanation:
 
 This is a Css property called Prefers-Color-Scheme 
 
@@ -20,11 +26,9 @@ inside this to file you will only find one tag
 this tag controls what collors that are going to work when the dark theme is set or ligth theme inside your operating System
 
 
-on the web:
-
-https://color-pref.netlify.com/
 
 
+# Learn more
 if you what to learn more you should take a look at this one:
 
 https://web.dev/prefers-color-scheme
